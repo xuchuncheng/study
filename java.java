@@ -18,6 +18,7 @@ public class java {
         b=a-b;
         a=a-b;
         System.out.println("a=" + a + ",b=" + b);
-		System.out.println("a=" + a + ",b=" + b+"我修改了这个文件");
+		System.out.println("a=" + a + ",b=" + b+"我的话就是这个文件");
+	System.out.println("a=" + a + ",b=" + b+"我修改了这个文件");
 	}
 }
